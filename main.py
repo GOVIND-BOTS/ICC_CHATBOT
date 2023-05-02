@@ -37,7 +37,17 @@ async def is_admins(chat_id: int):
 
 
 EMOJIOS = [ 
-      "💖",
+      "💖", 
+      "👀", 
+      "😀",
+      "😝", 
+      "🫶", 
+      "𝐈𝐂𝐂 𝐓𝐄𝐀𝐌", 
+      "❤️‍🔥𝐖𝐄𝐋𝐂𝐎𝐌𝐄❤️‍🔥", 
+      "😍𝐁𝐎𝐓 𝐈𝐒 𝐒𝐓𝐀𝐑𝐓𝐄𝐃", 
+     
+      
+     
 ]
       
 START = f"""
@@ -62,7 +72,7 @@ async def restart(client, m: Message):
     await asyncio.sleep(0.2)
     await accha.edit("╔═══❰𝐖𝐄𝐋𝐂𝐎𝐌𝐄❱═══❍⊱❁۪۪\n║\n║➣ @SK_X_Y\n║\n║➣ @indian_chatting_club_offical\n║\n║➣\n║\n╚══════ஜ۩۞۩ஜ═════╝")
     await asyncio.sleep(0.2)
-    await accha.edit("╔═══❰𝐖𝐄𝐋𝐂𝐎𝐌𝐄❱═══❍⊱❁۪۪\n║\n║➣ @SK_X_Y\n║\n║➣ @indian_chatting_club_offical\n║\n║➣ @shayari_ka_tadka\n║\n╚══════ஜ۩۞۩ஜ═════╝")
+    await accha.edit("╔═══❰🥵𝐌𝐀𝐊𝐄 𝐆𝐈𝐑𝐋𝐅𝐑𝐈𝐄𝐍𝐃 𝐇𝐄𝐑𝐄🥵❱═══❍⊱❁۪۪\n║\n║➣ @SK_X_Y\n║\n║➣ @indian_chatting_club_offical\n║\n║➣ @shayari_ka_tadka\n║\n╚══════ஜ۩۞۩ஜ═════╝")
      
 
 @bot.on_message(
