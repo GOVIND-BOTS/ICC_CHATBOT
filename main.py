@@ -50,7 +50,15 @@ EMOJIOS = [
       "🎃", 
       "𝐈𝐂𝐂 𝐓𝐄𝐀𝐌", 
       "❤️‍🔥𝐖𝐄𝐋𝐂𝐎𝐌𝐄❤️‍🔥", 
-      "😍𝐁𝐎𝐓 𝐈𝐒 𝐒𝐓𝐀𝐑𝐓𝐄𝐃", 
+      "🫣",
+      "✌",
+      "🫣",
+      "🫰",
+      "🤖", 
+      "💦",
+      "👉🥵👈", 
+      
+  
      
       
      
@@ -65,20 +73,20 @@ async def restart(client, m: Message):
     accha = await m.reply_text(
                 text = random.choice(EMOJIOS),
     )
-    await asyncio.sleep(0.5)
-    await accha.edit("😁𝐖𝐀𝐈𝐓 𝐁𝐎𝐓 𝐈𝐒 𝐒𝐓𝐀𝐑𝐈𝐍𝐆🤩")
-    await asyncio.sleep(0.4)
+    await asyncio.sleep(0.10)
+    await accha.edit("😁𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 𝐒𝐔𝐏𝐄𝐑𝐅𝐀𝐒𝐓 𝐂𝐇𝐀𝐓𝐁𝐎𝐓🤩")
+    await asyncio.sleep(0.18)
     await accha.edit("╔═══❰𝐖𝐄𝐋𝐂𝐎𝐌𝐄❱═══❍⊱❁۪۪\n║\n║\n║\n║\n║\n║\n║")
-    await asyncio.sleep(0.1)
+    await asyncio.sleep(0.5)
     await accha.edit("╔═══❰𝐖𝐄𝐋𝐂𝐎𝐌𝐄❱═══❍⊱❁۪۪\n║\n║\n║\n║\n║\n║\n║\n╚══════ஜ۩۞۩ஜ═════╝")
-    await asyncio.sleep(0.1)
+    await asyncio.sleep(0.5)
     await accha.edit("╔═══❰𝐖𝐄𝐋𝐂𝐎𝐌𝐄❱═══❍⊱❁۪۪\n║\n║➣\n║\n║➣\n║\n║➣\n║\n╚══════ஜ۩۞۩ஜ═════╝")
-    await asyncio.sleep(0.2)
+    await asyncio.sleep(0.5)
     await accha.edit("╔═══❰𝐖𝐄𝐋𝐂𝐎𝐌𝐄❱═══❍⊱❁۪۪\n║\n║➣ @SK_X_Y\n║\n║➣\n║\n║➣\n║\n╚══════ஜ۩۞۩ஜ═════╝")
-    await asyncio.sleep(0.2)
+    await asyncio.sleep(0.7)
     await accha.edit("╔═══❰𝐖𝐄𝐋𝐂𝐎𝐌𝐄❱═══❍⊱❁۪۪\n║\n║➣ @SK_X_Y\n║\n║➣ @indian_chatting_club_offical\n║\n║➣\n║\n╚══════ஜ۩۞۩ஜ═════╝")
-    await asyncio.sleep(0.2)
-    await accha.edit("╔═══❰🥵𝐌𝐀𝐊𝐄 𝐆𝐈𝐑𝐋𝐅𝐑𝐈𝐄𝐍𝐃 𝐇𝐄𝐑𝐄🥵❱═══❍⊱❁۪۪\n║\n║➣ @SK_X_Y\n║\n║➣ @indian_chatting_club_offical\n║\n║➣ @shayari_ka_tadka\n║\n╚══════ஜ۩۞۩ஜ═════╝")
+    await asyncio.sleep(0.7)
+    await accha.edit("╔═❰🥵𝐌𝐀𝐊𝐄 𝐆𝐈𝐑𝐋𝐅𝐑𝐈𝐄𝐍𝐃 𝐇𝐄𝐑𝐄🥵❱═❍⊱❁۪۪\n║\n║➣ @SK_X_Y\n║\n║➣ @indian_chatting_club_offical\n║\n║➣ @shayari_ka_tadka\n║\n╚══════ஜ۩۞۩ஜ═════╝")
      
 
 @bot.on_message(
