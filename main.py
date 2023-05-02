@@ -42,6 +42,12 @@ EMOJIOS = [
       "😀",
       "😝", 
       "🫶", 
+      "🤡", 
+      "🥳",
+      "🤑", 
+      "🤩", 
+      "👻", 
+      "🎃", 
       "𝐈𝐂𝐂 𝐓𝐄𝐀𝐌", 
       "❤️‍🔥𝐖𝐄𝐋𝐂𝐎𝐌𝐄❤️‍🔥", 
       "😍𝐁𝐎𝐓 𝐈𝐒 𝐒𝐓𝐀𝐑𝐓𝐄𝐃", 
@@ -59,9 +65,9 @@ async def restart(client, m: Message):
     accha = await m.reply_text(
                 text = random.choice(EMOJIOS),
     )
-    await asyncio.sleep(0.1)
-    await accha.edit("╔═══❰𝐖𝐄𝐋𝐂𝐎𝐌𝐄❱═══❍⊱❁۪۪")
-    await asyncio.sleep(0.1)
+    await asyncio.sleep(0.5)
+    await accha.edit("😁𝐖𝐀𝐈𝐓 𝐁𝐎𝐓 𝐈𝐒 𝐒𝐓𝐀𝐑𝐈𝐍𝐆🤩")
+    await asyncio.sleep(0.4)
     await accha.edit("╔═══❰𝐖𝐄𝐋𝐂𝐎𝐌𝐄❱═══❍⊱❁۪۪\n║\n║\n║\n║\n║\n║\n║")
     await asyncio.sleep(0.1)
     await accha.edit("╔═══❰𝐖𝐄𝐋𝐂𝐎𝐌𝐄❱═══❍⊱❁۪۪\n║\n║\n║\n║\n║\n║\n║\n╚══════ஜ۩۞۩ஜ═════╝")
