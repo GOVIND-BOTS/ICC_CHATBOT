@@ -37,48 +37,7 @@ async def is_admins(chat_id: int):
         async for member in bot.iter_chat_members(
             chat_id, filter="administrators"
         )
-    ]
-
-
-PHOTO = [
-    START_IMG1,
-    START_IMG2,
-    START_IMG3,
-    START_IMG4,
-    START_IMG5,
-    START_IMG6,
-    START_IMG7,
-    START_IMG8,
-    START_IMG9,
-    START_IMG10,
-]
-
-EMOJIOS = [ 
-      "💣",
-      "💥",
-      "🪄",
-      "🧨",
-      "⚡",
-      "🤡",
-      "👻",
-      "🎃",
-      "🎩",
-      "🕊",
-]
-      
-STICKER = [
-      STKR,
-      STKR1,
-      STKR2,
-      STKR3,
-      STKR4,
-      STKR5,
-      STKR6,
-      STKR7,
-      STKR8,
-]
-
-async def is_served_user(user_id: int) -> bool:
+   async def is_served_user(user_id: int) -> bool:
     user = await usersdb.find_one({"user_id": user_id})
     if not user:
         return False
@@ -92,7 +51,7 @@ async def get_served_users() -> list:
 
 async def add_served_user(user_id: int):
     is_served = await is_served_user(user_id)
-    if is_served:
+    if is_served
         return
     return await usersdb.insert_one({"user_id": user_id})
 
