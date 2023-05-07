@@ -68,12 +68,34 @@ START = f"""
 **๏ Hie Baby🐒 ๏**
 """
 
-@bot.on_message(filters.command(["start", "aistart", f"start@{BOT_USERNAME}"]))
-async def restart(client, m: Message):
-    accha = await m.reply_text(
-                text = random.choice(EMOJIOS),
-    )
-     @dev.on_message(filters.command("OWNER") & ~filters.bot)
+await asyncio.sleep(1.0)
+
+    (
+    await accha.edit("😁𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 𝐒𝐔𝐏𝐄𝐑𝐅𝐀𝐒𝐓 𝐂𝐇𝐀𝐓𝐁𝐎𝐓🤩")
+
+    await asyncio.sleep(1.5)
+
+    await accha.edit("╔═══❰𝐖𝐄𝐋𝐂𝐎𝐌𝐄❱═══❍⊱❁۪۪\n║\n║\n║\n║\n║\n║\n║")
+
+    await asyncio.sleep(0.5)
+
+    await accha.edit("╔═══❰𝐖𝐄𝐋𝐂𝐎𝐌𝐄❱═══❍⊱❁۪۪\n║\n║\n║\n║\n║\n║\n║\n╚══════ஜ۩۞۩ஜ═════╝")
+
+    await asyncio.sleep(0.6)
+
+    await accha.edit("╔═══❰𝐖𝐄𝐋𝐂𝐎𝐌𝐄❱═══❍⊱❁۪۪\n║\n║➣\n║\n║➣\n║\n║➣\n║\n╚══════ஜ۩۞۩ஜ═════╝")
+
+    await asyncio.sleep(0.07)
+
+    await accha.edit("╔═══❰𝐖𝐄𝐋𝐂𝐎𝐌𝐄❱═══❍⊱❁۪۪\n║\n║➣ @SK_X_Y\n║\n║➣\n║\n║➣\n║\n╚══════ஜ۩۞۩ஜ═════╝")
+
+    await asyncio.sleep(0.08)
+
+    await accha.edit("╔═══❰𝐖𝐄𝐋𝐂𝐎𝐌𝐄❱═══❍⊱❁۪۪\n║\n║➣ @SK_X_Y\n║\n║➣ @indian_chatting_club_offical\n║\n║➣\n║\n╚══════ஜ۩۞۩ஜ═════╝")
+
+    await asyncio.sleep(0.09)
+
+    await accha.edit("╔❰🥵𝐌𝐀𝐊𝐄 𝐆𝐈𝐑𝐋𝐅𝐑𝐈𝐄𝐍𝐃 𝐇𝐄𝐑𝐄🥵❱═❍⊱❁۪۪\n║\n║➣𝐎𝐖𝐍𝐄𝐑 @SK_X_Y\n║\n║➣𝐆𝐑𝐎𝐔𝐏 @indian_chatting_club_offical\n║\n║➣𝐂𝐇𝐀𝐍𝐍𝐄𝐋 @shayari_ka_tadka\n║\n╚══════ஜ۩۞۩ஜ═════╝")
 
 async def repo(_, m: Message):
 
