@@ -63,7 +63,7 @@ START = f"""
 @bot.on_message(filters.command(["start", "aistart", f"start@{BOT_USERNAME}"]))
 async def restart(client, m: Message):
     accha = await m.reply_text(
-                text = random.choice(EMOJIOS),
+                text = random.choice(IMG),
     )
     await asyncio.sleep(2.0)
     await accha.edit("𝐇𝐲 𝐁𝐚𝐛𝐲🥵 𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 ǫᴜᴇᴇɴܔᴋᴜsᴜᴍ࿐🇮🇳 𝐂𝐇𝐀𝐓 𝐁𝐎𝐓 𝐓𝐇𝐈𝐒 𝐈𝐒 𝐒𝐔𝐏𝐄𝐑𝐅𝐀𝐒𝐓 𝐂𝐇𝐀𝐓𝐁𝐎𝐓")
