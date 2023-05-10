@@ -18,9 +18,51 @@
 <p align="center"><a href="https://t.me/Icc_Machine_bot"> <img src="https://img.shields.io/badge/Check-Demo%20Robot-black?style=for-the-badge&logo=Telegram" width="220" height="39"/></a></p>
 
 <h2 align="center"> ──「 sᴜᴘᴘᴏʀᴛ 」──</h2>
-<marquee> 𝗜𝗖𝗖 𝗧𝗘𝗔𝗠 𝗕𝗢𝗧 </marquee>
+
 <p align="center"><a href="https://t.me/indian_chatting_club_offical"> <img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-black?style=for-the-badge&logo=Telegram" width="220" height="38.5"/></a></p>
 
 <p align="center"><a href="https://t.me/tha_govind_op"> <img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-black?style=for-the-badge&logo=Telegram" width="220" height="38.5"/></a></p>
+<!DOCTYPE html>
 
+<html>
+
+<body>
+
+    <div id="main">
+
+        <p class="para" id="para1">
+
+            Geeksforgeeks | 
+
+            𝗜𝗖𝗖 𝗕𝗢𝗧 𝗧𝗘𝗔𝗠 
+
+        </p>
+
+  
+
+        <p class="para" id="para2">
+
+            𝗦𝗨𝗣𝗘𝗥𝗙𝗔𝗦𝗧 𝗖𝗛𝗔𝗧𝗕𝗢𝗧
+
+        </p>
+
+  
+
+        <p class="para" id="para3">
+
+            𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 𝗡𝗔𝗠𝗘 𝗦𝗨𝗠𝗜𝗧 𝗔𝗡𝗗 𝗚𝗢𝗩𝗜𝗡𝗗
+
+            example line of the example.
+
+        </p>
+
+  
+
+    </div>
+
+</body>
+
+  
+
+</html>
   ━━━━━━━━━━━━━━━━━━━━
