@@ -36,7 +36,7 @@ async def is_admins(chat_id: int):
     ]
 
 
-EMOJIS = [ 
+IMG = [ 
       "https://te.legra.ph/file/b2dbc81297c5aa58a0cee.jpg",
       "https://te.legra.ph/file/43c0c8c3fafc987a39cbe.jpg", 
       "https://te.legra.ph/file/687a8f5cefdf180611094.jpg", 
