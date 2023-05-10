@@ -66,25 +66,8 @@ async def restart(client, m: Message):
                 text = random.choice(EMOJIOS),
     )
     await asyncio.sleep(2.0)
-    await accha.edit("𝗪𝗲𝗟𝗰𝗢𝗺𝗘 𝗦𝘂𝗣𝗲𝗥𝗳𝗔𝘀𝗧 𝗖𝗵𝗔𝘁𝗕𝗼𝗧")
-    await asyncio.sleep(0.4)
-    await accha.edit("👀𝐇𝐞𝐲 𝐁𝐚𝐛𝐮🙈
+    await accha.edit("👀𝐇𝐞𝐲 𝐁𝐚𝐛𝐮🙈💖𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐓𝐨 ǫᴜᴇᴇɴܔᴋᴜsᴜᴍ࿐🇮🇳🥀𝐈 𝐀𝐦 𝐀𝐧🎵𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝🤓𝐀𝐧𝐝🦋𝐒𝐮𝐩𝐞𝐫𝐟𝐚𝐬𝐭🐆𝐂𝐇𝐀𝐓🕊𝐁𝐎𝐓⭕𝐖𝐢𝐭𝐡♨️24𝐱7🔅𝐀𝐜𝐭𝐢𝐯𝐞»𝐅𝐨𝐫🌐𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦♨️𝐂𝐡𝐚𝐧𝐧𝐞𝐥☑️𝐀𝐧𝐝🃏𝐆𝐫𝐨𝐮𝐩𝐬📢 𝐒𝐔𝐏𝐏𝐎𝐑𝐓:- @indian_chatting_club_offial 𝐔𝐏𝐃𝐀𝐓𝐄𝐒:- @tha_govind_op 𝐒𝐇𝐀𝐘𝐀𝐑𝐈 𝐇𝐔𝐁 :- @shayari_ka_tadka 𝐃𝐏 𝐒𝐓𝐎𝐑𝐄:- @SKXYdpstoreofficial📡 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲:- 𝐈𝐂𝐂☆𝐓𝐄𝐀𝐌 💞")
 
-💖𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐓𝐨 ǫᴜᴇᴇɴܔᴋᴜsᴜᴍ࿐🇮🇳
-
-🥀𝐈 𝐀𝐦 𝐀𝐧🎵𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝🤓𝐀𝐧𝐝 🦋 𝐒𝐮𝐩𝐞𝐫𝐟𝐚𝐬𝐭🐆𝐂𝐇𝐀𝐓🕊𝐁𝐎𝐓⭕𝐖𝐢𝐭𝐡 ♨️ 24𝐱7🔅 𝐀𝐜𝐭𝐢𝐯𝐞 » 𝐅𝐨𝐫 🌐 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 ♨️ 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 ☑️𝐀𝐧𝐝🃏𝐆𝐫𝐨𝐮𝐩𝐬 📢
-
-🍁𝐅𝐞𝐞𝐥 😝 𝐋𝐚𝐠 🤡 𝐅𝐫𝐞𝐞 🤩 𝐓𝐨 🃏 𝐀𝐝𝐝 𝐌𝐞 𝐈𝐧 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 🥵 𝐀𝐧𝐝 👻 𝐄𝐧𝐣𝐨𝐲 ❥︎ 𝐒𝐮𝐩𝐞𝐫 🎃 𝐅𝐀𝐒𝐓 👀 𝐂𝐇𝐀𝐓🧚‍♂️ 𝐁𝐎𝐓 📣 
-
-𝐒𝐔𝐏𝐏𝐎𝐑𝐓:- @indian_chatting_club_offical
-
-𝐔𝐏𝐃𝐀𝐓𝐄𝐒:- @tha_govind_op
-
-𝐒𝐇𝐀𝐘𝐀𝐑𝐈 𝐇𝐔𝐁 :- @shayari_ka_tadka
-
-𝐃𝐏 𝐒𝐓𝐎𝐑𝐄:- @SKXYdpstoreofficial
-
-📡 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲:- 𝐈𝐂𝐂☆𝐓𝐄𝐀𝐌 💞")
    
 
 
