@@ -36,22 +36,24 @@ async def is_admins(chat_id: int):
     ]
 
 
-EMOJIOS = [ 
-      "❤‍🔥",
-      "🎃", 
-      "👋", 
-      "🥵", 
-      "😜", 
-      "😁", 
-      "😇", 
-      "😍", 
-      "🤡", 
-      "😘", 
-      "😳", 
-      "👿", 
-      "👻", 
-      "🥳", 
-      "🥶", 
+IMG = [ 
+      "https://te.legra.ph/file/b2dbc81297c5aa58a0cee.jpg",
+      "https://te.legra.ph/file/43c0c8c3fafc987a39cbe.jpg", 
+      "https://te.legra.ph/file/687a8f5cefdf180611094.jpg", 
+      "https://te.legra.ph/file/0915579d5398194a6c507.jpg", 
+      "https://te.legra.ph/file/fdfc75f4325345a7705b7.jpg", 
+      "https://te.legra.ph/file/701c6a740cee5f31b6fc3.jpg", 
+      "https://te.legra.ph/file/19dc8c38e2ee4a44095d7.jpg", 
+      "https://te.legra.ph/file/e243242db63c4b0da2c56.jpg", 
+      "https://te.legra.ph/file/8fc1ac8a05bb2760e66be.jpg", 
+      "https://te.legra.ph/file/02f2ad2f25e9a56c2883f.jpg", 
+      "https://te.legra.ph/file/95ee267ab7ef996b04125.jpg", 
+      "https://te.legra.ph/file/c11d1600accc7a6bd6076.jpg", 
+      "https://te.legra.ph/file/88a5d336b55320c35c080.jpg", 
+      "https://te.legra.ph/file/bd1ec94e5c58733e1cb46.jpg", 
+      "https://te.legra.ph/file/aebe867fd4458b4a200f7.jpg",
+      "https://te.legra.ph/file/768802245997bf0aba8e0.jpg",
+      "https://te.legra.ph/file/669e0a4802863d1cbb303.jpg", 
 ]
       
 START = f"""
@@ -66,18 +68,27 @@ async def restart(client, m: Message):
     await asyncio.sleep(2.0)
     await accha.edit("𝗪𝗲𝗟𝗰𝗢𝗺𝗘 𝗦𝘂𝗣𝗲𝗥𝗳𝗔𝘀𝗧 𝗖𝗵𝗔𝘁𝗕𝗼𝗧")
     await asyncio.sleep(0.4)
-    await accha.edit("╔═══❰𝐖𝐄𝐋𝐂𝐎𝐌𝐄❱═══❍⊱❁۪۪\n║\n║\n║\n║\n║\n║\n║")
-    await asyncio.sleep(0.5)
-    await accha.edit("╔═══❰𝐖𝐄𝐋𝐂𝐎𝐌𝐄❱═══❍⊱❁۪۪\n║\n║\n║\n║\n║\n║\n║\n╚══════ஜ۩۞۩ஜ═════╝")
-    await asyncio.sleep(0.6)
-    await accha.edit("╔═══❰𝐖𝐄𝐋𝐂𝐎𝐌𝐄❱═══❍⊱❁۪۪\n║\n║➣\n║\n║➣\n║\n║➣\n║➣\n║\n╚══════ஜ۩۞۩ஜ═════╝")
-    await asyncio.sleep(0.7)
-    await accha.edit("╔═══❰𝐖𝐄𝐋𝐂𝐎𝐌𝐄❱═══❍⊱❁۪۪\n║\n║➣ @SK_X_Y\n║\n║➣\n║\n║➣\n║\n╚══════ஜ۩۞۩ஜ═════╝")
-    await asyncio.sleep(0.8)
-    await accha.edit("╔═══❰𝐖𝐄𝐋𝐂𝐎𝐌𝐄❱═══❍⊱❁۪۪\n║\n║➣ @SK_X_Y\n║\n║➣ @indian_chatting_club_offical\n║\n║➣\n║\n╚══════ஜ۩۞۩ஜ═════╝")
-    await asyncio.sleep(0.9)
-    await accha.edit("╔═══❰𝐖𝐄𝐋𝐂𝐎𝐌𝐄❱═══❍⊱❁۪۪\n║\n║➣ @SK_X_Y\n║\n║➣ @indian_chatting_club_offical\n║\n║➣ @shayari_ka_tadka\n║\n╚══════ஜ۩۞۩ஜ═════╝")
-    await accha.edit("╔═══❰🥵𝗝𝗼𝗜𝗻 𝗡𝗼𝗪 𝗕𝗮𝗕𝘆🥵❱═══❍⊱❁۪۪\n║\n║➣ @SK_X_Y\n║\n║➣ @indian_chatting_club_offical\n║\n║➣ @shayari_ka_tadka\n║\n║➣ @tha_govind_op\n║\n╚══════ஜ۩۞۩ஜ═════╝")
+    await accha.edit("👀𝐇𝐞𝐲 𝐁𝐚𝐛𝐮🙈
+
+💖𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐓𝐨 ǫᴜᴇᴇɴܔᴋᴜsᴜᴍ࿐🇮🇳
+
+🥀𝐈 𝐀𝐦 𝐀𝐧🎵𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝🤓𝐀𝐧𝐝 🦋 𝐒𝐮𝐩𝐞𝐫𝐟𝐚𝐬𝐭🐆𝐂𝐇𝐀𝐓🕊𝐁𝐎𝐓⭕𝐖𝐢𝐭𝐡 ♨️ 24𝐱7🔅 𝐀𝐜𝐭𝐢𝐯𝐞 » 𝐅𝐨𝐫 🌐 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 ♨️ 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 ☑️𝐀𝐧𝐝🃏𝐆𝐫𝐨𝐮𝐩𝐬 📢
+
+🍁𝐅𝐞𝐞𝐥 😝 𝐋𝐚𝐠 🤡 𝐅𝐫𝐞𝐞 🤩 𝐓𝐨 🃏 𝐀𝐝𝐝 𝐌𝐞 𝐈𝐧 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 🥵 𝐀𝐧𝐝 👻 𝐄𝐧𝐣𝐨𝐲 ❥︎ 𝐒𝐮𝐩𝐞𝐫 🎃 𝐅𝐀𝐒𝐓 👀 𝐂𝐇𝐀𝐓🧚‍♂️ 𝐁𝐎𝐓 📣 
+
+𝐒𝐔𝐏𝐏𝐎𝐑𝐓:- @indian_chatting_club_offical
+
+𝐔𝐏𝐃𝐀𝐓𝐄𝐒:- @tha_govind_op
+
+𝐒𝐇𝐀𝐘𝐀𝐑𝐈 𝐇𝐔𝐁 :- @shayari_ka_tadka
+
+𝐃𝐏 𝐒𝐓𝐎𝐑𝐄:- @SKXYdpstoreofficial
+
+📡 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲:- 𝐈𝐂𝐂☆𝐓𝐄𝐀𝐌 💞")
+   
+
+
+
 
     
 
