@@ -36,24 +36,24 @@ async def is_admins(chat_id: int):
     ]
 
 # Random Start Images
-IMG = [ 
-      "https://te.legra.ph/file/b2dbc81297c5aa58a0cee.jpg",
-      "https://te.legra.ph/file/43c0c8c3fafc987a39cbe.jpg", 
-      "https://te.legra.ph/file/687a8f5cefdf180611094.jpg", 
-      "https://te.legra.ph/file/0915579d5398194a6c507.jpg", 
-      "https://te.legra.ph/file/fdfc75f4325345a7705b7.jpg", 
-      "https://te.legra.ph/file/701c6a740cee5f31b6fc3.jpg", 
-      "https://te.legra.ph/file/19dc8c38e2ee4a44095d7.jpg", 
-      "https://te.legra.ph/file/e243242db63c4b0da2c56.jpg", 
-      "https://te.legra.ph/file/8fc1ac8a05bb2760e66be.jpg", 
-      "https://te.legra.ph/file/02f2ad2f25e9a56c2883f.jpg", 
-      "https://te.legra.ph/file/95ee267ab7ef996b04125.jpg", 
-      "https://te.legra.ph/file/c11d1600accc7a6bd6076.jpg", 
-      "https://te.legra.ph/file/88a5d336b55320c35c080.jpg", 
-      "https://te.legra.ph/file/bd1ec94e5c58733e1cb46.jpg", 
-      "https://te.legra.ph/file/aebe867fd4458b4a200f7.jpg",
-      "https://te.legra.ph/file/768802245997bf0aba8e0.jpg",
-      "https://te.legra.ph/file/669e0a4802863d1cbb303.jpg", 
+EMOJIOS = [ 
+      "😁",
+      "💖", 
+      "🥰", 
+      "😝", 
+      "🤪", 
+      "🥸", 
+      "🤩", 
+      "🤓", 
+      "😎", 
+      "🥵", 
+      "🤭", 
+      "👻", 
+      "🎃", 
+      "🤝", 
+      "👀",
+      "😎",
+      "😍", 
 ]
       
 START = f"""
@@ -63,10 +63,10 @@ START = f"""
 @bot.on_message(filters.command(["start", "aistart", f"start@{BOT_USERNAME}"]))
 async def restart(client, m: Message):
     accha = await m.reply_text(
-                text = random.choice(IMG),
+                text = random.choice(EMOJIOS),
     )
     await asyncio.sleep(2.0)
-    await accha.edit("𝐇𝐲 𝐁𝐚𝐛𝐲🥵 𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 ǫᴜᴇᴇɴܔᴋᴜsᴜᴍ࿐🇮🇳 𝐂𝐇𝐀𝐓 𝐁𝐎𝐓 𝐓𝐇𝐈𝐒 𝐈𝐒 𝐒𝐔𝐏𝐄𝐑𝐅𝐀𝐒𝐓 𝐂𝐇𝐀𝐓𝐁𝐎𝐓")
+    await accha.edit("𝐇𝐲 𝐁𝐚𝐛𝐲🥵 𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 ǫᴜᴇᴇɴܔᴋᴜsᴜᴍ࿐🇮🇳 𝐂𝐇𝐀𝐓 𝐁𝐎𝐓 𝐓𝐇𝐈𝐒 𝐈𝐒 𝐒𝐔𝐏𝐄𝐑𝐅𝐀𝐒𝐓 𝐂𝐇𝐀𝐓𝐁𝐎𝐓 😎𝗔𝗗𝗗 𝗧𝗢 𝗬𝗢𝗨𝗧 𝗚𝗥𝗢𝗨𝗣 𝗔𝗡𝗗 𝗟𝗲𝘁'𝘀 𝗖𝗵𝗮𝘁 𝗔𝗻𝗱 𝗘𝗻𝗷𝗼𝘆🤩")
 
    
 
