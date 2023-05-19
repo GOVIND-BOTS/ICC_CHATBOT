@@ -66,7 +66,7 @@ async def restart(client, m: Message):
                 text = random.choice(EMOJIOS),
     )
     await asyncio.sleep(2.0)
-    await accha.edit("𝐇𝐲 𝐁𝐚𝐛𝐲🥵 ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴏᴜʀ Ƈυƚҽܔραɾι࿐🇮🇳 𝐂𝐇𝐀𝐓 𝐁𝐎𝐓 𝐓𝐇𝐈𝐒 𝐈𝐒 𝐒𝐔𝐏𝐄𝐑𝐅𝐀𝐒𝐓 𝐂𝐇𝐀𝐓𝐁𝐎𝐓 😎𝗔𝗗𝗗 𝗧𝗢 𝗬𝗢𝗨𝗥 𝗚𝗥𝗢𝗨𝗣 𝗔𝗡𝗗 𝗟𝗲𝘁'𝘀 𝗖𝗵𝗮𝘁 𝗔𝗻𝗱 𝗘𝗡𝗝𝗢𝗬🤩 𝐒𝐔𝐏𝐏𝐎𝐑𝐓- @indian_chatting_club_offical) 𝐔𝐏𝐃𝐀𝐓𝐄𝐒- @tha_govind_op")
+    await accha.edit("𝐇𝐲 𝐁𝐚𝐛𝐲🥵 ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴏᴜʀ ǫᴜᴇᴇɴܔᴋᴜsᴜᴍ࿐🇮🇳 𝐂𝐇𝐀𝐓 𝐁𝐎𝐓 𝐓𝐇𝐈𝐒 𝐈𝐒 𝐒𝐔𝐏𝐄𝐑𝐅𝐀𝐒𝐓 𝐂𝐇𝐀𝐓𝐁𝐎𝐓 😎𝗔𝗗𝗗 𝗧𝗢 𝗬𝗢𝗨𝗥 𝗚𝗥𝗢𝗨𝗣 𝗔𝗡𝗗 𝗟𝗲𝘁'𝘀 𝗖𝗵𝗮𝘁 𝗔𝗻𝗱 𝗘𝗡𝗝𝗢𝗬🤩 𝐒𝐔𝐏𝐏𝐎𝐑𝐓- @indian_chatting_club_offical 𝐔𝐏𝐃𝐀𝐓𝐄𝐒- @tha_govind_op")
 
    
 
